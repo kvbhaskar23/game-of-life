@@ -499,7 +499,7 @@
         <repository>
             <id>releases</id>
             <name>Releases</name>
-            <url>http://ec2-18-220-55-222.us-east-2.compute.amazonaws.com:8081/nexus/content/repositories/releases/</url>
+            <url>http://ec2-52-14-23-59.us-east-2.compute.amazonaws.com:8081/nexus/content/repositories/releases/</url>
         </repository>
         
      </distributionManagement>
